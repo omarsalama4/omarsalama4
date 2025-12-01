@@ -20,22 +20,6 @@ Currently focused on **computer vision, automation, and intelligent systems**, a
 
 ---
 
-## 📂 Selected Projects  
-
-### 🌌 ExoNet: AI-Powered Exoplanet Classification  
-Deep learning pipeline for NASA’s **K2 mission data**, achieving **95.28% accuracy** in classifying exoplanet candidates.  
-🔗 [Repository](https://github.com/omarelnokrashy/exonet-nasa-spaceapps-2025)  
-
-### 📰 Interactive Chatbot for News Summarization  
-Chatbot-style GUI built with **Streamlit** and **Google Gemini 2.5 Flash**, summarizing articles, extracting topics, and generating reflective questions.  
-🔗 [Repository](https://github.com/omarsalama4/News-Summary-chatbot)  
-
-### 🍌🍅 Fine-Grained Fruit Quality Assessment  
-Computer vision models (CNN–Transformer, AlexNet, Inception) for classifying fruit ripeness and spoilage, with **95% accuracy** on test data.  
-🔗 [Repository](https://github.com/omarelnokrashy/Fine-Grained-Fruit-Quality-Assessment)  
-
----
-
 ## 🤝 Collaboration  
 Open to **AI development, automation, research, freelance, and open-source contributions**.  
 
